@@ -15,3 +15,7 @@ In this dataset i have used Unsupervised Machine Learning Algorithm to categoriz
 Model Architecture-->1.Data collection
                       2.Data Preprocessing->Missing value imputation,Emcoding,Outlier Treatment,Training the Algorithm,Testing Algorithm
  Model Accuracy-->68.5420273129448
+
+
+
+DATASET LINK-https://drive.google.com/file/d/1RKiZQxEkB_AhzzoIFdBMl9Q5Awtiymaw/view?usp=drive_web
